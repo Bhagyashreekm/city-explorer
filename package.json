@@ -1,0 +1,16 @@
+{
+  "name": "apihub-mini",
+  "private": true,
+  "workspaces": ["apps/*", "packages/*"],
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "lint": "turbo lint",
+    "format": "prettier --write \"**/*.{ts,tsx,js,jsx,json,md}\""
+  },
+  "packageManager": "npm@11.7.0",
+  "devDependencies": {
+    "prettier": "^3.2.0",
+    "turbo": "^2.0.0"
+  }
+}
