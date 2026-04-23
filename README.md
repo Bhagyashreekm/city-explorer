@@ -38,4 +38,9 @@ apps/web/src/
 - **Currency** → frankfurter.app (free, no key)
 - **Attractions & News** → bundled mock data
 
+## 🔗 Live Preview
+
+Check out the live project here:
+👉 https://city-explorer-web.vercel.app/
+
 > No API keys needed — works out of the box!
